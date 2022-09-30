@@ -1,2 +1,2 @@
 # NewRepo
-New Repository Testing
+Journal STKIP Bina Insan Mandiri
